@@ -107,15 +107,4 @@ JavaProfissional/
 
 ---
 
-# 📌 Futuras Implementações
-
-- Melhorias visuais
-- Refatoração de código
-- APIs REST completas
-- Integração com banco de dados
-- Dockerização dos projetos
-- Deploy em nuvem
-
----
-
 # 👨‍💻 Desenvolvido por Givaldo.
