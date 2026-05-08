@@ -2,9 +2,7 @@
 
 Repositório contendo exercícios, projetos e aplicações desenvolvidas durante o curso:
 
-## 👨‍🏫 Professor
-
-**Leonardo Moura Leitao**
+## 👨‍🏫 Professor Leonardo Moura Leitao**
 
 ---
 
