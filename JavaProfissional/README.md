@@ -4,8 +4,6 @@ Repositório contendo exercícios, projetos e aplicações desenvolvidas durante
 
 ## 👨‍🏫 Professor Leonardo Moura Leitao
 
----
-
 # 🚀 Objetivo
 
 O objetivo deste repositório é reunir conteúdos práticos e aplicações desenvolvidas ao longo do curso, abordando desde fundamentos da linguagem Java até tópicos avançados como:
